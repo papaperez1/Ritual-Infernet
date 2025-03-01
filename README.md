@@ -14,9 +14,10 @@ Ritual building an execution layer for crypto AI which allow devs to run ML mode
 
 Login to https://dashboard.alchemy.com/ and create Base mainnet endpoint
 
-![image](https://github.com/user-attachments/assets/64056ca2-9b69-4246-aca0-221857d62877)
+![image](https://github.com/user-attachments/assets/3e16122d-a24b-4dd2-98a5-0fc73715fc01)
 
-Go to netork tab and note down your BASE mainnet RPC
+
+Go to network tab and note down your BASE mainnet RPC
 
 ![image](https://github.com/user-attachments/assets/a2c58742-a752-4f5d-8fcd-d241304b545f)
 
