@@ -12,7 +12,7 @@ Ritual building an execution layer for crypto AI which allow devs to run ML mode
 
 #### Create Custom Base RPC url
 
-Login to https://dashboard.alchemy.com/ and create Base aminnet endpoint
+Login to https://dashboard.alchemy.com/ and create Base mainnet endpoint
 
 ![image](https://github.com/user-attachments/assets/64056ca2-9b69-4246-aca0-221857d62877)
 
@@ -190,4 +190,18 @@ project=hello-world make call-contract
 
 Join discord https://discord.gg/4MPV7YvR and ask questions if you face any issue.
 
+Best practices for freeing up disk space:
+
+docker compose down/up to free up some space
+recommended spec is 500GB SSD so make sure to upgrade your infra
+docker container prune -f
+docker image prune -f
+docker volume prune -f (Please keep in mind that the last command docker volume prune -f will delete all stored data. You will loose all you users and scans.)
+if all else fails, wipe server and install node again
+
+Here's also the recommendation from the team:
+
+The increasing storage is a result of the Anvil node. It's an Ethereum node which is only used for local development. 
+
+It is not recommended to have long-running Infernet node deployments with the anvil node. If your node requires an on-chain connection, please use an RPC address to that chain and remove the anvil-node from the docker-compose file.
 
