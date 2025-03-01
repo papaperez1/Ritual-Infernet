@@ -24,7 +24,11 @@ Go to network tab and note down your BASE mainnet RPC
 #### Fund wallet with $5-10 worth of ETH for gas
 
 #### Install Tools
+
+Login to your Vm
+
 ```
+sudo su -
 sudo apt update && sudo apt upgrade -y
 sudo apt -qy install curl git jq lz4 build-essential screen
 ```
