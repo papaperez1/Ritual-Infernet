@@ -21,7 +21,7 @@ Go to network tab and note down your BASE mainnet RPC
 
 ![image](https://github.com/user-attachments/assets/a2c58742-a752-4f5d-8fcd-d241304b545f)
 
-#### Fund wallet with $5-10 worth of ETH for gas
+#### Fund wallet with $5-10 worth of BASE_ETH for gas
 
 #### Install Tools
 
