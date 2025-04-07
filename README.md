@@ -1,4 +1,4 @@
-# Ritual-Infernet Devnett
+# Ritual-Infernet Devnet
 ![image](https://github.com/user-attachments/assets/31e672e1-46c8-420a-9614-bba64febcb3e)
 
 Ritual building an execution layer for crypto AI which allow devs to run ML model outputs in smart contracts while managing the computation offchain through network of nodes which would be get paid in ritual tokens in rewards for computation, and proof of computation they would generate. -@hmalviya9
