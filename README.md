@@ -8,7 +8,7 @@ Ritual building an execution layer for crypto AI which allow devs to run ML mode
 ### Node Specs
 ![image](https://github.com/user-attachments/assets/50bd2689-cc14-4056-8c07-1bbc5d317cfc)
 
-### Pre-Requisite
+### Pre-Requisitee
 
 #### Create Custom Base RPC url
 
